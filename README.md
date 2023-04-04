@@ -2,7 +2,7 @@
 #💾/42/Core_Curriculum/Get_next_line
 
 # General concepts of the project
-- Function that reads a file and allows you to read a line ending with a newline character from a file descriptor.
+- The goal is to program a function that reads from the file and returns a new line. (\n)
 - When you call the function again on the same file, it grabs the next line. 
 - A (-1) is returned if an error occurred. 
 - A (0) is returned if the file is finished reading.
